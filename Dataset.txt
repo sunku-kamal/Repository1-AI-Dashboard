@@ -1,0 +1,3 @@
+Dataset Name:-Supermarket Sales
+Dataset Links:-
+ https://raw.githubusercontent.com/selva86/datasets/master/supermarket_sales.csv

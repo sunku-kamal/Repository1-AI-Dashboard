@@ -1,0 +1,9 @@
+How to Run Project 1 in Google Colab:
+
+
+1.Open Google Colab → New Notebook
+2.enter the code step by  step and execute
+3.import the libraries and dataset
+4.check and clean the dataset 
+5.filters and vizualizations and run all cells
+6. create a new respiratory and upload the file and create a readme
